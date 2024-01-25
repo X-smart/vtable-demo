@@ -11,5 +11,3 @@ import PivotChart from './components/PivotChart.vue';
   <br />
   <PivotChart />
 </template>
-
-<style scoped></style>
